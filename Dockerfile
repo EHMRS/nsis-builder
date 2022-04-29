@@ -1,6 +1,6 @@
 FROM ubuntu:21.04
 
-LABEL org.opencontainers.image.source https://github.com/EHRMS/nsis-builder
+LABEL org.opencontainers.image.source https://github.com/EHMRS/nsis-builder
 
 RUN \
     export DEBIAN_FRONTEND=noninteractive && \
